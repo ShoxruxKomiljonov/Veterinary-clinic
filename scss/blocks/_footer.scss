@@ -1,0 +1,16 @@
+.footer{
+  display: flex;
+  gap: 40px;
+}
+.footer-list{
+  line-height: 30px;
+  list-style: none;
+}
+.footer-list a{
+  text-decoration: none;
+  color: #333;
+}
+.site-footer{
+  background: #F3F3F3;
+  padding: 50px 0;
+}
